@@ -1,0 +1,17 @@
+{
+  "name": "stiq",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "commander": "2.9.0",
+    "lodash": "4.17.5",
+    "ramda": "0.25.0",
+    "request": "2.79.0"
+  }
+}
